@@ -12,3 +12,6 @@ to push into local memory
 
 to add we use
 "git add filename"
+
+
+always follow these to upload in github
