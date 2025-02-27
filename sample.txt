@@ -1,0 +1,14 @@
+textone.txt
+
+
+to push into github we should use
+"git push origin main"
+orgin-previous path
+
+
+to push into local memory
+
+"git commit -m " sample file  "
+
+to add we use
+"git add filename"
