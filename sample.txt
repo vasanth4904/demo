@@ -1,5 +1,3 @@
-textone.txt
-
 
 to push into github we should use
 "git push origin main"
@@ -10,8 +8,8 @@ to push into local memory
 
 "git commit -m " sample file  "
 
-to add we use
-"git add filename"
+to add  1 file & more file use
+"git add filename" or "git add ."
 
 
 always follow these to upload in github
@@ -22,4 +20,13 @@ to create new git repositiry for new file we should use
 to change to new folder use
 " cd .. "
 " cd folder_name "
+
+to add folder into github 
+" intially create new repositary"
+use " git branch "
+" git push origin branch "
+ or change branch name using
+" git branch -m main"
+"git push origin main"
+
 
