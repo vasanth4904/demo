@@ -15,3 +15,11 @@ to add we use
 
 
 always follow these to upload in github
+
+to create new git repositiry for new file we should use
+"git init"
+
+to change to new folder use
+" cd .. "
+" cd folder_name "
+
